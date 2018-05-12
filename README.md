@@ -20,7 +20,7 @@ examples:
 I love kittens. 1 
 </br>
 Thought the muppets were creepy!        0
-</br>
+</br> </br>
         
 2. testingfile is the name of the dataset that we would
 like to classify.  Documents are represented in the
