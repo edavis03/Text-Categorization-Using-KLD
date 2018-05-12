@@ -18,7 +18,7 @@ by a new line </br>
 examples:
 </br> </br>
 > I love kittens. 1 
->Thought the muppets were creepy!        0
+>&nbsp; Thought the muppets were creepy!        0
 </br> </br>
         
 2. testingfile is the name of the dataset that we would
