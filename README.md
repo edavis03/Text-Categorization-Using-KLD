@@ -17,8 +17,8 @@ a classification (either 0 or 1) followed immediately
 by a new line </br>
 examples:
 </br> </br>
-> I love kittens.&nbsp;&nbsp;1  </br>
-> Thought the muppets were creepy!&nbsp;&nbsp;0
+> I love kittens.&nbsp;&nbsp;&nbsp;&nbsp;1  </br>
+> Thought the muppets were creepy!&nbsp;&nbsp;&nbsp;&nbsp;0
 </br> </br>
         
 2. testingfile is the name of the dataset that we would
