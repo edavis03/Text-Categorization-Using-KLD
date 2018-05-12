@@ -1,9 +1,6 @@
 #!/usr/bin/python
 # Emily Davis
-# Ashton Stephens
-# Information Theory
-# Kullback-Leibler Distance 
-
+# Kullback-Leibler Distance
 
 import sys
 import string
