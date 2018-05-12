@@ -1,5 +1,5 @@
 # Text-Categorization-Using-KLD
-Text Categorizer using Kullback-Leibler Distance 
+Text Categorizer using Kullback-Leibler Distance </br>
 Emily Davis
 
 kld.py is a program to run text categorization using the
