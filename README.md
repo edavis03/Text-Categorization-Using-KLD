@@ -14,8 +14,8 @@ where
 machine on.  Where documents are represented as
 a single line of text followed by a tab followed by
 a classification (either 0 or 1) followed immediately
-by a new line </br>
-examples:
+by a new line. </br>
+Examples:
 
 > I love kittens.&nbsp;&nbsp;&nbsp;&nbsp;1  </br>
 > Thought the muppets were creepy!&nbsp;&nbsp;&nbsp;&nbsp;0
